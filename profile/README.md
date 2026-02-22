@@ -2,7 +2,7 @@
 
 Engineering organization founded by **Alfio Spoto** and **Gabriele Ruggieri**.
 
-We build backend services, APIs, and full-stack applications with a focus on correctness, maintainability, and scale. Every repository in this org follows shared standards for code review, commit hygiene, and testing — documented in our [contributing guide](../CONTRIBUTING.md).
+We build backend services, APIs, and full-stack applications with a focus on correctness, maintainability, and scale. Every repository in this org follows shared standards for code review, commit hygiene, and testing — documented in our [contributing guide](https://github.com/gras-lab/.github/blob/main/CONTRIBUTING.md).
 
 ---
 
